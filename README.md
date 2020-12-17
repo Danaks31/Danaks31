@@ -1,7 +1,7 @@
 # Vincent-Valette
 
 # **A propos de moi.**   
-#**Mes réseaux**   
+# **Mes réseaux**   
 **Mon site : https://www.vincentvalette.com/**   
 **Mon Linkedin : https://www.linkedin.com/in/vincent-valette/**   
 
@@ -15,7 +15,7 @@
 
 ---
     
-##**Ok, j'ai des compétences maintenant**    
+## **Ok, j'ai des compétences maintenant**    
 **À l'heure actuelle je recherche une entreprise qui pourrait m'accueillir en tant qu'alternant afin de mettre en pratique toutes mes compétences dans un milieu professionnel, au milieu d'autres pairs et ainsi concrétiser mon ambition et apporter mes compétences a un organisme.**
 
 ---
