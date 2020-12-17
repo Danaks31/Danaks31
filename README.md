@@ -8,6 +8,8 @@
 #**Début dans le dév**   
 **De nature plutôt geek, j'ai toujours été attiré par le milieu informatique, c'est pourquoi en décembre 2019 j'ai commencé à apprendre en autodidacte des notions de code grâce à OpenClassRooms, qui m'a ensuite contacté pour faire une formation d'intégrateur web, chose que j'ai faite**
 
+---
+
 ##**Maintenant, je suis intégrateur Web ! Super, mais concrètement ?**     
 **J'ai ensuite voulu faire évoluer mes compétences si petites soit elles ( à ce moment-là HTML/CSS et un peu de JS, beaucoup de notions de bonne pratique), j'ai donc cherché une école qui proposait une formation de Développeur Web, chose que j'ai trouvée au sein de la Web Force3 Toulouse, là où j'ai énormément progressé et vois beaucoup plus clair dans le monde du développement (Utilité d'utilisé telle ou telle techno (language, framework, bibliothèque ), pour tel ou tel projet, pourquoi) également j'ai des nouvelles cordes à mon arc ! ( JS, PHP, BDD, Angular(notions))**    
     
