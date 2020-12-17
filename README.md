@@ -15,13 +15,13 @@
 **À l'heure actuelle je recherche une entreprise qui pourrait m'accueillir en tant qu'alternant afin de mettre en pratique toutes mes compétences dans un milieu professionnel, au milieu d'autres pairs et ainsi concrétiser mon ambition et apporter mes compétences a un organisme.**
 
 ##**Tout ça c'est bien comment j'envisage la suite ?**     
-** if ( entrepriseAccueillante == <3 ) {   
+**if ( entrepriseAccueillante == <3 ) {   
      console.log('Eventuellement resté le plus longtemp possible')   
 } else if ( etude == raté) {    
      console.log('Cela n'arrivera pas mais SI, Je remonte sur selle et recommence')     
 } else {    
      console.log('JE travaillerais dans le dév d'une maniere ou d'une autre x)')     
-}       
+}**      
 
 **##En résumé**    
 **J'ai aujourd'hui trouvé ma vois, je sais exactement ce que je veux faire, du moins le milieu dans lequel je veux travailler, j'aime sa et j'ai soif d'apprendre davantage le monde du développement ( et plus encore), dans tous les cas je suis ultra motivé et rien ne m'empêchera d'atteindre mon but. Il me reste encore tant à apprendre.**
