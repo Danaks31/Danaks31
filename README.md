@@ -1,10 +1,12 @@
 # Vincent-Valette
 
-# **A propos de moi.**   
-# **Mes réseaux**   
-**[Mon site](https://www.vincentvalette.com/)**
-**Mon Linkedin : https://www.linkedin.com/in/vincent-valette/**   
 
+# **Mes réseaux**   
+**[Mon site](https://www.vincentvalette.com/)**      
+**[Linkedin](https://www.linkedin.com/in/vincent-valette/)**    
+
+# **A propos de moi.**   
+   
 # **Début dans le dév**   
 **De nature plutôt geek, j'ai toujours été attiré par le milieu informatique, c'est pourquoi en décembre 2019 j'ai commencé à apprendre en autodidacte des notions de code grâce à OpenClassRooms, qui m'a ensuite contacté pour faire une formation d'intégrateur web, chose que j'ai faite**
 
