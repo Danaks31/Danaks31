@@ -31,5 +31,5 @@
 
 ---
 
-**## En résumé**    
+## **En résumé**    
 **J'ai aujourd'hui trouvé ma vois, je sais exactement ce que je veux faire, du moins le milieu dans lequel je veux travailler, j'aime sa et j'ai soif d'apprendre davantage le monde du développement ( et plus encore), dans tous les cas je suis ultra motivé et rien ne m'empêchera d'atteindre mon but. Il me reste encore tant à apprendre.**
